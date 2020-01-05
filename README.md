@@ -20,4 +20,4 @@ Change the parameters to something that you used in your JSReport instance and R
 API Should return a PDF file
 
 ## About Me
-I'm CTO at (MeuPortfol.io)[http://meuportfol.io] and you can ping me at (LinkedIn)[https://www.linkedin.com/in/felipebossolani/] or Email (look at my profile)
+I'm CTO at [MeuPortfol.io](http://meuportfol.io) and you can ping me at [LinkedIn](https://www.linkedin.com/in/felipebossolani/) or Email (look at my profile)
